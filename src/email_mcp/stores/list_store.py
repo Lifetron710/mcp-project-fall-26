@@ -32,6 +32,15 @@ MOCK_EMAILS = [
         "subject": "",
         "body": "The dataset link is ready. Ask me before sharing it outside the club.",
     },
+    {
+        "id": 4,
+        "date": "2026-10-02 14:00:00",
+        "sender": "alice@example.com",
+        "to": ["bob@example.com"],
+        "cc": [],
+        "subject": "Follow-up on project meeting",
+        "body": "Just checking in on the progress of the MCP project.",
+    }
 ]
 
 
